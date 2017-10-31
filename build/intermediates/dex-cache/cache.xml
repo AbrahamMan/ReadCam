@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/ankit/AndroidStudioProjects/ReadCam/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/ankit/AndroidStudioProjects/ReadCam/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4f81218953cb9009ee6275a8488f7b7f23ebfe52/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ankit/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/home/ankit/AndroidStudioProjects/ReadCam/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_260fce1f9bb39e189a131c16118e76d2c2827374/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankit/.android/build-cache/43dee54d9cac6ec7332aabe4e0ce6823ff6aff44/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/home/ankit/AndroidStudioProjects/ReadCam/app/build/intermediates/pre-dexed/debug/classes_e4b59120532a09649a587c55d5d4945f210e0326.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ankit/AndroidStudioProjects/ReadCam/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="407949b29b34148ab9702f5cd2c6d6aa19c61884">
+        <dex dex="/home/ankit/AndroidStudioProjects/ReadCam/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2727f52bcd7c28132363895e68694e37eac539c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ankit/.android/build-cache/6c6e47f764c492e6718ba6983324d01c4b7be246/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="/home/ankit/AndroidStudioProjects/ReadCam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_04fbb6a82555848b31ebe273b2991762ed209e6b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ankit/.android/build-cache/e68f90d685c998fc1a7de07c03558d0b7a5a8580/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/home/ankit/AndroidStudioProjects/ReadCam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1d96d61343cd2d945ed53fe581712221601f9721/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ankit/.android/build-cache/20fb79bb50d6d1de283ff0cb13064d0545e9e3d2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/home/ankit/AndroidStudioProjects/ReadCam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_be0e0dae128957f4aa6b50470b127f0a9baedc2c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ankit/.android/build-cache/a13df8ff043300cc29ce7ca68979d7d88482d226/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/ankit/AndroidStudioProjects/ReadCam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6b0637b31e3fc0924e15fa5f58bc3f4c3eb78c52/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ankit/.android/build-cache/b83214cecdd6320fc33fa3a1f67fd7a5c6323acc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/home/ankit/AndroidStudioProjects/ReadCam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_947e40fa5a3c3553388b91dc61e2af454bb3acc7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ankit/.android/build-cache/9da5675bef27707f644fcf3e2edaa8962f6ba4b1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/home/ankit/AndroidStudioProjects/ReadCam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_455063307ff0f2e2f5fee1610374f96d40b658f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ankit/.android/build-cache/c7e33246fc7c0865178281a33497a04055e54f51/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/ankit/AndroidStudioProjects/ReadCam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_883d6388fd923d6b5e492aa6cf367f44948ab103/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ankit/.android/build-cache/4fb592a94f8513bfdd7317b0426e49808a5ea56c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/home/ankit/AndroidStudioProjects/ReadCam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_61037c413d6818823eaa487d6bd3220b048d4236/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankit/.android/build-cache/53f1eacf5dfb8913f5b513cc49617b144477d91f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/home/ankit/AndroidStudioProjects/ReadCam/app/build/intermediates/pre-dexed/debug/classes_7a90ed337e1f90a5a2fdb7407ba5684628f3026c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankit/.android/build-cache/dbf72fa8a2b269f8bdab82356c2f422676d3f36b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="63b03eaa1aa9b9431c7638841175f9842dcbf274">
+        <dex dex="/home/ankit/AndroidStudioProjects/ReadCam/app/build/intermediates/pre-dexed/debug/classes_2effae88845665d98b896ddf3f64a74c3aec3758.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ankit/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/ankit/AndroidStudioProjects/ReadCam/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_4fde91aa2f472653b79b45ddf21b6200701c6575/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ankit/.android/build-cache/c54884bde081270967e56df51c8defe523b01591/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a30aea7df545072ad3c06f56b2efc13e67222140">
+        <dex dex="/home/ankit/AndroidStudioProjects/ReadCam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8a062799826a660c932a57ddc6c94e9ede99cec4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ankit/.android/build-cache/5020f719196f586b139316dbaec37720e3eb1615/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/home/ankit/AndroidStudioProjects/ReadCam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9b42573dde66e2c3d3be4d5abc3dd3f1d7c4d211/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ankit/.android/build-cache/00c653682a109c03ba14c9cb54f352866f1f374f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/home/ankit/AndroidStudioProjects/ReadCam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_31fa91803df32156358d8503accd9dad8c04ea72/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankit/.android/build-cache/9052413e31b472c51a45e5bc7f5d37361bb96f1e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/home/ankit/AndroidStudioProjects/ReadCam/app/build/intermediates/pre-dexed/debug/classes_c207682d90699af637f7cc47453c49c7a7e93e46.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ankit/.android/build-cache/28711a1c4155870b0b760ecc27fb4ee90e30a92d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/home/ankit/AndroidStudioProjects/ReadCam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_eb88b373bac801b9d80b44e1632efbacb15d78b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ankit/.android/build-cache/ef7ebd0071c5a54bbbe1c2b83d99998c57c4fa48/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/home/ankit/AndroidStudioProjects/ReadCam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9ccb9f2a6399834c6a596011665365c13e5f64fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ankit/.android/build-cache/d1c6f4160add46377c9b43d8e8d837403dd601ec/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/home/ankit/AndroidStudioProjects/ReadCam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e5faa950620b3e5d3ef8fed0e0f2cee405f5dcfd/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankit/.android/build-cache/e37964a65a833ee298cf78f02f27cbcc9675f02e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6b3430725095bd46b785e97bd34240826c27b4db">
+        <dex dex="/home/ankit/AndroidStudioProjects/ReadCam/app/build/intermediates/pre-dexed/debug/classes_12732a5666f38f580fbc6adc2e49b5e5d34cb88b.jar" />
+    </item>
+
+</items>
